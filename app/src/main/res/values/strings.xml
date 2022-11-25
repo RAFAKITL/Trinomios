@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Trinomios</string>
+    <string name="titulo_pantalla_principal">Factorización de trinomios</string>
+    <string name="termino_cuadratico">x^2 +</string>
+    <string name="termino_lineal">x +</string>
+    <string name="termino_constante_final">= 0</string>
+    <string name="pista_a">a</string>
+    <string name="pista_b">b</string>
+    <string name="pista_c">c</string>
+    <string name="titulo_pantalla_resultados">Resultados</string>
+    <string name="introduccion_reales">Las raices de tu trinomio son reales y son: </string>
+    <string name="introduccion_complejo">Las raices de tu trinomio son complejas y son: </string>
+    <string name="formato_normal_uno">Tu primera X es:  </string>
+    <string name="formato_normal_dos">Tu segunda X es:  </string>
+    <string name="aviso1">Por favor llena todos los datos</string>
+    <string name="aviso2">No dejes espacios sin numeros</string>
+</resources>
